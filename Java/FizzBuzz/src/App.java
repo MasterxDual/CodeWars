@@ -1,3 +1,6 @@
+/*Para los números del 1 al 100, imprime "Fizz" si el número es divisible por 3, "Buzz" si es divisible por 5, y "FizzBuzz" si 
+es divisible por ambos. Si no es divisible ni por 3 ni por 5, simplemente imprime el número. */
+
 import java.util.stream.IntStream;
 
 public class App {
